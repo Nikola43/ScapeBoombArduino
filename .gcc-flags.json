@@ -1,0 +1,8 @@
+{
+  "execPath": "/Users/paulo/.platformio/packages/toolchain-atmelavr/bin/avr-g++",
+  "gccDefaultCFlags": "-fsyntax-only -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=40003 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10805 -D__AVR_ATmega328P__",
+  "gccDefaultCppFlags": "-fsyntax-only -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=40003 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10805 -D__AVR_ATmega328P__",
+  "gccErrorLimit": 15,
+  "gccIncludePaths": "/Users/paulo/Documents/PlatformIO/Projects/scapebomb/include,/Users/paulo/Documents/PlatformIO/Projects/scapebomb/src,/Users/paulo/.platformio/packages/framework-arduinoavr/cores/arduino,/Users/paulo/.platformio/packages/framework-arduinoavr/variants/eightanaloginputs,/Users/paulo/.platformio/lib/TM1637_ID258,/Users/paulo/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src,/Users/paulo/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src,/Users/paulo/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src,/Users/paulo/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src,/Users/paulo/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src,/Users/paulo/.platformio/packages/toolchain-atmelavr/avr/include,/Users/paulo/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include,/Users/paulo/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed,/Users/paulo/.platformio/packages/tool-unity",
+  "gccSuppressWarnings": false
+}
